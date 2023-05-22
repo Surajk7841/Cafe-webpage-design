@@ -1,5 +1,5 @@
 body {
-  background-image: url(./cafebg.jpg);
+  background-image: url(Images/cafebg.jpg);
   background-repeat: no-repeat;
   background-size: 1515px;
 }
@@ -96,7 +96,7 @@ h1 {
 
 /*below is about section */
 .about-section{
-  background-image: url(./cafebg1.jpg);
+  background-image: url(Images/cafebg1.jpg);
   background-size: 1515px 1050px;
   margin: 200px -10px 5px -10px;
   width: 1515px;
@@ -109,7 +109,7 @@ h1 {
   margin-top: 60px;
   border-radius: 20px;
   text-align: center;
-  background-image: url(./cafebg1.jpg);
+  background-image: url(Images/cafebg1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   align-items: center;
